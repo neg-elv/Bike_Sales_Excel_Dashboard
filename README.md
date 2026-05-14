@@ -61,7 +61,9 @@ Through this project, I practiced:
 ---
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+## Dashboard Preview
+
+![Dashboard](Bike_Sales_Dashboard.png)
 
 ---
 
